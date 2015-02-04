@@ -17,7 +17,7 @@ puts "Programs are composed of basically three things:"
 puts "A language's keywords, like 'if' or 'end' (approximately 43)."
 puts "Literal pieces of data like this very sentence (or String)."
 puts "Finally, barewords, or variables, that are set equal to things."
-
+r
 puts "Anything that isn't one of those will cause an error."
 
 see
