@@ -15,7 +15,16 @@ type: video
 
 ## Companion Lab
 
-Fork and clone this repository and edit the files `lib/a_working_program.rb` and `spec/a_working_program_spec.rb` according to the instructions.
+Fork and clone this repository. 
 
-Your goal is to have a valid ruby program in `lib/a_working_program.rb`  and a corresponding test that the program is valid, that you expect it to not raise an error, in `spec/a_working_program_spec.rb`
+Run `ironboard` from within the cloned directory and your tests will fail.
 
+Open the file `lib/a_working_program.rb` and fix the error.
+
+The entire contents of the file should read:
+
+```ruby
+puts "Hello World"
+```
+
+Save the file, run `ironboard` and it should pass. Commit your changes and push then open a pull request and it should be all green.
