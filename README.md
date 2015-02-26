@@ -13,7 +13,7 @@ type: video
     Your browser does not support the video tag. We recommend using Chrome
 </video>
 
-## Lab
+## Companion Lab
 
 Fork and clone this repository. 
 
