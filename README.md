@@ -17,7 +17,7 @@ type: video
 
 Fork and clone this repository. 
 
-Run `ironboard` from within the cloned directory and your tests will fail.
+Run `learn` from within the cloned directory and your tests will fail.
 
 Open the file `lib/a_working_program.rb` and fix the error.
 
@@ -27,4 +27,4 @@ The entire contents of the file should read:
 puts "Hello World"
 ```
 
-Save the file, run `ironboard` and it should pass. Commit your changes and push then open a pull request and it should be all green.
+Save the file, run `learn` and it should pass. Commit your changes and push then open a pull request and it should be all green.
