@@ -2,8 +2,8 @@
 
 ## Objectives
 
-1. Familiarize yourself with reading test output and error messages
-2. Create a working Ruby program
+1. Familiarize yourself with reading test output and error messages.
+2. Create a working Ruby program.
 
 <video controls width="100%">
   <source src="http://flatiron-videos.s3.amazonaws.com/ironboard/ruby/ruby-lecture-fixing-our-broken-program/ruby-lecture-fixing-our-broken-program.mp4" type="video/mp4" >
