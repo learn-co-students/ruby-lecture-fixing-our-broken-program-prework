@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Familiarize yourself with reading test output and error messages.
+1. Read test output and error messages.
 2. Create a working Ruby program.
 
 <video controls width="100%">
