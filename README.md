@@ -23,7 +23,7 @@
 4) The entire contents of the file should read:
 
 ```ruby
-puts "Hello World"
+puts "Hello World!"
 ```
 
 5) Save the file, run `learn` and it should pass. 
