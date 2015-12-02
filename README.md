@@ -29,3 +29,5 @@ puts "Hello World!"
 5) Save the file, run `learn` and it should pass. 
 
 6) Commit your changes and push, then open a pull request between your master branch and the master branch of this repository.
+
+<a href='https://learn.co/lessons/ruby-lecture-fixing-our-broken-program' data-visibility='hidden'>View this lesson on Learn.co</a>
