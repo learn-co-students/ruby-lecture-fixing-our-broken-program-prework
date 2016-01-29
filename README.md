@@ -30,4 +30,4 @@ puts "Hello World!"
 
 6) Commit your changes and push, then open a pull request between your master branch and the master branch of this repository.
 
-<a href='https://learn.co/lessons/ruby-lecture-fixing-our-broken-program' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-lecture-fixing-our-broken-program' title='Fixing Our Broken Program'>Fixing Our Broken Program</a> on Learn.co and start learning to code for free.</p>
