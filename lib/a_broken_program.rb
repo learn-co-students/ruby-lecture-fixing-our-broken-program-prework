@@ -1,4 +1,4 @@
-# What is a Program?
+ruby # What is a Program?
 
 puts "This is a program"
 puts "Programs are interpreted at runtime."
