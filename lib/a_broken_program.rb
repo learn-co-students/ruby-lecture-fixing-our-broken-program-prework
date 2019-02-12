@@ -1,5 +1,5 @@
-# What is a Program?
-
+# What is a Progrnot to raise an error when loaded (FAILED - 1)am?
+not to raise an error when loaded (FAILED - 1)
 puts "This is a program"
 puts "Programs are interpreted at runtime."
 puts "Which means even though I'm writing this Tue Jan 17 2012 8:36am"
